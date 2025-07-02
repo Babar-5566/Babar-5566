@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sk Babar Ali
-- 👀 Interested in computer science field.
+- 👀 Interested in computer science field (Robotics, IOT, Dev and DSA).
 - 🌱 Currently learning engineering in cs.
 - 💞️ Looking for internships to acquire industrial experience.
 - 📫 Email - skbabarali5566@gmail.com
