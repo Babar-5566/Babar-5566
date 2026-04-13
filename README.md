@@ -36,7 +36,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github.com/babat-5566.png" alt="babat-5566" width="150" />
+  <img align="center" src="https://avatars.githubusercontent.com/babat-5566" alt="babat-5566" width="150" />
 </p>
 
 
